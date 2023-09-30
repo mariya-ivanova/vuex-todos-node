@@ -1,0 +1,12 @@
+{
+  "name": "vuex-todos-node",
+  "version": "1.0.0",
+  "description": "Serve Vue.js todos application",
+  "author": "Mimi",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
